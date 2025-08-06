@@ -19,7 +19,7 @@ Really weird part is it broken also TypeScript LSP.
 
 This is my server-side biome server info:
 
-```json
+```text
 * Server: biome (id 51)
 
 * Binary: LanguageServerBinary {
